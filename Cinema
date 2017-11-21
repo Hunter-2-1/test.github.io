@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Cinema map</title>
+</head>
+<body background="afisha.jpg">
+<center>
+<font color="white"><h1>Cinema</h1></font>
+<br>
+<br>
+<br>
+<br>
+<p><a href="Rampage">Rampage</a></p>
+<p><a href="Interstellar">Interstellar</a></p>
+<p><a href="The Lion King">The Lion King</a></p>
+<p><a href="Star Wars">Star Wars</a></p>
+</center>
+
+<p><a href="index">Click</a> to return on my page</p>
+</body>
+</html>

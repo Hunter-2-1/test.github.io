@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page about me</title>
+ <link rel="stylesheet" href="css">
+
+</head>
+<body background="1365572975_oboi-priroda-5.jpg">
+ 
+<h1>Li Valeriy</h1>
+
+
+<p><h3>Some information</h3></p>
+<p>ID - u1710204</p>
+<p>Group - 17-1</p>
+<p>Mail - v.li@student.inha.uz</p>
+<p>Contact - +998 93 512-0203</p>
+
+
+
+<center><br1> My Avatar
+<br><img src="Avatar.jpg" alt="avatar" width="256" height="256">
+</center>
+<font color="white">
+<br>My hobbies or interests
+<ul>
+<li>Reading</li>
+<li>Writing</li>
+<li>Chating</li>
+<li>and more other</li>
+</ul>
+</font>
+
+<br> If you want you can take a look here
+<a href="Cinema">Cinema</a>
+
+</body>
+</html>
